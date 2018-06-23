@@ -1,0 +1,47 @@
+[23-May-2015 03:01:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"<div class='item "' (T_CONSTANT_ENCAPSED_STRING) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 6
+[27-May-2015 09:11:26 America/Chicago] PHP Warning:  include(loadmore.php?where=front): failed to open stream: No such file or directory in /home3/tamirp/public_html/gmar/lifactory/index.php on line 46
+[27-May-2015 09:11:26 America/Chicago] PHP Warning:  include(loadmore.php?where=front): failed to open stream: No such file or directory in /home3/tamirp/public_html/gmar/lifactory/index.php on line 46
+[27-May-2015 09:11:26 America/Chicago] PHP Warning:  include(): Failed opening 'loadmore.php?where=front' for inclusion (include_path='.:/opt/php54/lib/php') in /home3/tamirp/public_html/gmar/lifactory/index.php on line 46
+[30-May-2015 11:43:39 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:43:51 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 18
+[30-May-2015 11:44:42 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:44:43 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:46:52 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:46:54 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:53:08 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:53:09 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 11:53:10 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:08:29 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:10:58 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:15:46 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:16:23 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:17:11 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:17:12 America/Chicago] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:34 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:50 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:51 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:51 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:51 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:52 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:53 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:53 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:53 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:54 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[30-May-2015 12:18:55 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home3/tamirp/public_html/gmar/lifactory/loadmore.php on line 19
+[12-Jun-2015 11:15:22 America/Chicago] PHP Parse error:  syntax error, unexpected '$fronttitles' (T_VARIABLE), expecting '(' in /home3/tamirp/public_html/lifactory/loadmore-back.php on line 7
+[12-Jun-2015 11:15:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$fronttitles' (T_VARIABLE), expecting '(' in /home3/tamirp/public_html/lifactory/loadmore-back.php on line 7
+[12-Jun-2015 11:15:32 America/Chicago] PHP Parse error:  syntax error, unexpected '$fronttitles' (T_VARIABLE), expecting '(' in /home3/tamirp/public_html/lifactory/loadmore-back.php on line 7
